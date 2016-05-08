@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"modu",
+				"module_name〔variable〕"
+			],
+			[
+				"de",
+				"debug_led"
+			],
+			[
+				"st",
+				"str_"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"sub",
+				"sub_module"
+			],
+			[
+				"rw",
+				"rw_cond_32"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"gen_",
+				"gen_para"
+			],
+			[
+				"make",
+				"make_reglist"
+			],
+			[
+				"reg",
+				"reg_stack"
+			],
+			[
+				"re",
+				"reg"
+			],
+			[
+				"r",
+				"r_cycle_32"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"fif",
+				"fifo_32"
+			],
+			[
+				"w",
+				"w_cycle_32"
+			],
+			[
+				"re2",
+				"reg2fifo"
+			],
+			[
+				"arg",
+				"argvs"
+			],
+			[
+				"a",
+				"argc"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"us",
+				"use_fifo_32"
+			],
+			[
+				"as",
+				"assign_port"
+			],
+			[
+				"su",
+				"sub_port"
+			],
+			[
+				"ans",
+				"ans_sub"
+			],
+			[
+				"bit",
+				"bitmax"
+			],
+			[
+				"ans_32",
+				"ans_32_alw"
+			],
+			[
+				"bi",
+				"bitmin"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"cu",
+				"cur_r"
+			],
+			[
+				"fifo",
+				"fifo32"
+			],
+			[
+				"mou",
+				"module_name"
+			],
+			[
+				"port",
+				"port_stack"
+			],
+			[
+				"po",
+				"port_stack"
+			],
+			[
+				"por",
+				"port"
+			],
+			[
+				"an",
+				"ans_o"
+			],
+			[
+				"mo",
+				"module_name"
+			],
+			[
+				"module",
+				"module_name"
+			],
+			[
+				"m",
+				"module_name"
+			],
+			[
+				"is",
+				"i_sub"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"al",
+				"alw8_stack"
+			],
+			[
+				"e",
+				"elem_ins"
+			],
+			[
+				"make_",
+				"make_32_alw"
+			],
+			[
+				"op",
+				"option_port"
+			],
+			[
+				"s",
+				"str_"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"hy",
+				"hydro-devel"
+			],
+			[
+				"di",
+				"dir_right"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"es",
+				"elsif	elsif ..."
+			],
+			[
+				"fifo_",
+				"fifo_32"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"d",
+				"dout_32"
+			],
+			[
+				"f",
+				"fifo_ctl"
+			],
+			[
+				"in_",
+				"in_1"
+			],
+			[
+				"stat",
+				"state_32"
+			],
+			[
+				"ge",
+				"get_module_name"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"get",
+				"get_make_32_alw"
+			],
+			[
+				"ans_",
+				"ans_32"
+			],
+			[
+				"get_",
+				"get_sub_module"
+			],
+			[
+				"get_use_fifo_",
+				"get_use_fifo_32"
+			],
+			[
+				"fl",
+				"flag"
+			],
+			[
+				"int",
+				"integer_string"
+			],
+			[
+				"I",
+				"Integer"
+			],
+			[
+				"fla",
+				"flag_ok"
+			],
+			[
+				"fo",
+				"fo_s"
+			],
+			[
+				"data",
+				"data_ready"
+			],
+			[
+				"we",
+				"we_32"
+			],
+			[
+				"sl",
+				"split"
+			],
+			[
+				"A",
+				"Array	Array.new(10) { |i| .. }"
+			],
+			[
+				"mod",
+				"mod	module .. module_function .. end"
+			],
+			[
+				"mode",
+				"module_name"
+			],
+			[
+				"p",
+				"publisher_array"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"fra",
+				"frameID"
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"ELEM",
+				"ELEM_MASK"
+			],
+			[
+				"c",
+				"cout"
+			],
+			[
+				"cha",
+				"char"
+			],
+			[
+				"speed",
+				"speed"
+			],
+			[
+				"fd",
+				"fd_32"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"li",
+				"line_info"
+			],
+			[
+				"try",
+				"try_scan"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"co",
+				"color_lib"
+			],
+			[
+				"pixel",
+				"Pixel"
+			],
+			[
+				"pi",
+				"pic"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"gete",
+				"get_dtime"
+			],
+			[
+				"gettime",
+				"get_dtime"
+			],
+			[
+				"Image",
+				"ImageData"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"om",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"tabe",
+				"Table Editor: Enable for current view"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ma",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"omni b",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 518.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"asad",
+			"-help",
+			"cd",
+			"ls",
+			"ｌｓ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/cygwin/home/kazushi/deep-learning"
+	],
+	"file_history":
+	[
+		"/D/cygwin/home/kazushi/cReComp/cReComp.py",
+		"/C/Users/kazushi/AppData/Local/Temp/scp33788/home/kazushi/work_space/death-march-committee/yamashina/python/subjects/txtmaching.py",
+		"/C/Users/kazushi/AppData/Local/Temp/scp33580/home/kazushi/work_space/death-march-committee/yamashina/python/in_data/zundoko.txt",
+		"/C/Users/kazushi/AppData/Local/Temp/scp32812/home/kazushi/work_space/death-march-committee/yamashina/python/out_data/done_label.png",
+		"/D/cygwin/home/kazushi/cReComp/devel/sensor_ctl/sensor_ctl.cpp",
+		"/D/cygwin/home/kazushi/cReComp/ruby/lib/sub_module.rb",
+		"/C/Users/kazushi/AppData/Local/Temp/scp07994/home/kazushi/work_space/death-march-committee/yamashina/python/subjects/labeling.py",
+		"/C/Users/kazushi/Dropbox/sinro/intel.txt",
+		"/C/Users/kazushi/AppData/Local/Temp/scp45549/home/kazushi/work_space/death-march-committee/yamashina/python/out_data/done_facerecog.jpg",
+		"/D/cygwin/home/kazushi/cReComp/devel/sensor_ctl/sensor_ctl.v",
+		"/D/cygwin/home/kazushi/cReComp/lib/template.scrp",
+		"/D/cygwin/home/kazushi/cReComp/lib/define.py",
+		"/D/cygwin/home/kazushi/cReComp/lib/sw_gen.py",
+		"/D/cygwin/home/kazushi/cReComp/ruby/cReComp.rb",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib8inst",
+		"/C/Users/kazushi/AppData/Local/Temp/scp47869/root/exp_workdir/test/sensor_ctl.cpp",
+		"/D/cygwin/home/kazushi/cReComp/sub_module/readme",
+		"/D/cygwin/home/kazushi/cReComp/scrp/readme",
+		"/D/cygwin/home/kazushi/cReComp/devel/readme",
+		"/D/cygwin/home/kazushi/cReComp/sub_module/sonic_sensor.v",
+		"/D/cygwin/home/kazushi/fpga_comp_experiment/sensor_ctl.scrp",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib_alw8",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib_alw32",
+		"/D/cygwin/home/kazushi/cReComp/lib/fifo_32_para",
+		"/D/cygwin/home/kazushi/cReComp/lib/fifo_8_para",
+		"/D/cygwin/home/kazushi/cReComp/lib/fifo_32.py",
+		"/D/cygwin/home/kazushi/cReComp/lib/fifo_8.py",
+		"/D/cygwin/home/kazushi/cReComp/devel/test/test.v",
+		"/D/cygwin/home/kazushi/cReComp/scrp/test.scrp",
+		"/D/cygwin/home/kazushi/cReComp/devel/test/test.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/scp26496/root/common_space/test3/lib_cpp.h",
+		"/D/cygwin/home/kazushi/cReComp/devel/sensor_ctl/sonic_sensor.v",
+		"/D/work_space/exp_test/verilog/src/xillydemo.ucf",
+		"/C/Users/kazushi/AppData/Local/Temp/scp17263/root/common_space/test3/sensor_ctl.cpp",
+		"/D/work_space/exp_test/verilog/src/sensor_ctl.v",
+		"/C/Users/kazushi/AppData/Local/Temp/scp33416/root/common_space/test3/sensor_ctl.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/Temp1_kazushi.lzh/kazushi/memory_img.v",
+		"/D/cygwin/home/kazushi/fpga_comp_experiment/sensor_ctl.cpp",
+		"/D/cygwin/lib/python2.7/os.py",
+		"/D/cygwin/lib/python2.7/os.pyc",
+		"/C/Users/kazushi/Downloads/TimingAnalyzer_b9893/TimingAnalyzer_b9893/start_app.py",
+		"/C/Users/kazushi/Downloads/timing.tex",
+		"/C/Users/kazushi/Downloads/Makefile",
+		"/C/Users/kazushi/AppData/Local/Temp/scp10160/root/common_space/est/estimate.cpp",
+		"/C/work/filter/solution1/impl/ip/hdl/verilog/filter_est.v",
+		"/C/work/filter/filter.c",
+		"/C/work/filter/solution1/impl/ip/hdl/verilog/filter_est_fdiv_32ns_32ns_32_16.v",
+		"/C/work/filter/solution1/impl/sysgen/verilog_impl/filter_est.v",
+		"/C/work/filter/solution1/impl/sysgen/verilog_impl/filter_est_ap_fdiv_14_no_dsp_32.ngc",
+		"/D/work_space/filter_est2/filter_est.v",
+		"/D/cygwin/home/kazushi/cReComp/scrp/estimate.scrp",
+		"/D/cygwin/home/kazushi/cReComp/sub_module/filter_est.v",
+		"/C/Users/kazushi/AppData/Local/Temp/scp48992/root/common_space/est/estimate.cpp",
+		"/D/cygwin/home/kazushi/cReComp/devel/estimate/estimate.cpp",
+		"/D/work_space/sonic_sensor_test/Display7SEG.v",
+		"/C/Users/kazushi/AppData/Local/Temp/scp01876/root/common_space/test3/sensor_ctl.cpp",
+		"/C/work/filter/solution1/impl/verilog/filter_est.ucf",
+		"/C/work/filter/main_test.c",
+		"/C/Users/kazushi/AppData/Local/Temp/Temp1_xilinx_com_hls_filter_est_1_0.zip/hdl/verilog/filter_est.v",
+		"/C/work/filter/solution1/impl/verilog/filter_est.v",
+		"/C/work/filter/solution1/impl/verilog/sim_tbs/filter_est.autotb.v",
+		"/C/Users/kazushi/Downloads/zedboard_master_UCF_RevC_v3/zedboard_master_UCF_RevC_v3.ucf",
+		"/D/work_space/SAMPLE/xillinux-eval-zedboard-1.3c_compiled/verilog/src/xillydemo.ucf",
+		"/C/Users/kazushi/Desktop/sensor_ctl.scrp",
+		"/D/cygwin/home/kazushi/cReComp/scrp/sensor_ctl.scrp",
+		"/D/work_space/exp_test/verilog/src/sonic_sensor.v",
+		"/D/work_space/openreroc_ultrasonic/verilog/src/sensor_ctl.v",
+		"/D/work_space/openreroc_ultrasonic/verilog/src/sonic_sensor.v",
+		"/D/work_space/openreroc_ultrasonic/verilog/src/xillydemo.ucf",
+		"/C/Users/kazushi/AppData/Local/Temp/scp05663/root/common_space/test3/sensor_ctl.cpp",
+		"/D/cygwin/home/kazushi/cReComp/devel/sample/sample.v",
+		"/D/cygwin/home/kazushi/open_reroc/openreroc_motion_sensor/hardware/src/sensor_ctl.v",
+		"/D/work_space/fifo_sample/fifo.v",
+		"/D/cygwin/home/kazushi/open_reroc/openreroc_motion_sensor/hardware/src/sonic_sensor.v",
+		"/C/Users/kazushi/AppData/Local/Temp/scp17439/root/common_space/test2/lib_cpp.h",
+		"/D/work_space/component_demo_sensor/verilog/src/xillydemo.ucf",
+		"/D/work_space/component_demo_sensor/verilog/src/sensor_ctl.v",
+		"/C/Users/kazushi/AppData/Local/Temp/scp46270/root/common_space/test2/main.cpp",
+		"/D/cygwin/home/kazushi/cReComp/lib/scrp_conf.py",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib_main.cpp",
+		"/D/cygwin/home/kazushi/cReComp/lib/common.py",
+		"/C/Users/kazushi/AppData/Local/Temp/scp47645/root/common_space/test2/lib_cpp.h",
+		"/D/cygwin/home/kazushi/cReComp/lib/sample.cpp",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/scp38899/root/common_space/test/main.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/scp38235/root/common_space/test/lib_cpp.h",
+		"/D/cygwin/home/kazushi/cReComp/lib/lib_cpp.h",
+		"/D/cygwin/home/kazushi/cReComp/lib/check_option.py",
+		"/C/Users/kazushi/AppData/Local/Temp/scp48430/root/common_space/test/sensor_ctl.h",
+		"/C/Users/kazushi/AppData/Local/Temp/scp47535/root/common_space/test/sensot_ctl.h",
+		"/D/cygwin/home/kazushi/cReComp/scrp/sensor_ctl_kimura.scrp",
+		"/D/cygwin/home/kazushi/cReComp/devel/sensor_ctl_debug/sensor_ctl_debug.v",
+		"/D/cygwin/home/kazushi/cReComp/result.txt",
+		"/C/Users/kazushi/AppData/Local/Temp/scp46967/root/xillybus/demoapps/streamread.c",
+		"/C/Users/kazushi/AppData/Local/Temp/scp23110/root/open_reroc_ws/src/openreroc_motion_sensor/src/openreroc_motion_sensor.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/scp33175/root/xillybus/demoapps/streamwrite.c",
+		"/C/Users/kazushi/AppData/Local/Temp/scp50223/root/xillybus/demoapps/Makefile",
+		"/D/cygwin/home/kazushi/cReComp/test/main.cpp",
+		"/D/cygwin/home/kazushi/cReComp/test/lib_cpp.h",
+		"/C/Users/kazushi/AppData/Local/Temp/scp37290/home/kazushi/work_space/test/main.cpp",
+		"/C/Users/kazushi/AppData/Local/Temp/scp35554/home/kazushi/work_space/test/lib_cpp.h",
+		"/C/Users/kazushi/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/kazushi/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/kazushi/AppData/Local/Temp/scp26170/home/kazushi/work_space/test/dummy_read.txt",
+		"/C/Users/kazushi/AppData/Local/Temp/scp24803/home/kazushi/work_space/test/dummy_write.txt",
+		"/C/Users/kazushi/AppData/Local/Temp/scp47387/home/kazushi/work_space/test/sample.txt",
+		"/C/Users/kazushi/Desktop/fsp_mail.md",
+		"/D/cygwin/home/kazushi/cReComp/lib/sub_module.py",
+		"/D/cygwin/home/kazushi/cReComp/lib/sw_gen_cpp.py",
+		"/D/cygwin/home/kazushi/cReComp/devel/sonic_sensor.v",
+		"/D/cygwin/home/kazushi/cReComp/scrp/test3.scrp",
+		"/D/cygwin/home/kazushi/cReComp/README.md",
+		"/C/Users/kazushi/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/D/cygwin/home/kazushi/cReComp/scrp/test2.scrp",
+		"/D/Program Files/Sublime Text 3/sublime.py",
+		"/D/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/D/cygwin/home/kazushi/cReComp/devel/MPU_gyro_controller.v",
+		"/D/cygwin/home/kazushi/cReComp/devel/MPU9250_contoroller.v",
+		"/D/cygwin/home/kazushi/cReComp/lib/option_port.py",
+		"/D/cygwin/home/kazushi/cReComp/lib/sample.txt",
+		"/D/cygwin/home/kazushi/cReComp/devel/test.v",
+		"/D/cygwin/home/kazushi/cReComp/ruby/lib/fifo_32.rb",
+		"/D/cygwin/home/kazushi/cReComp/ruby/lib/scrp_conf.rb",
+		"/D/cygwin/home/kazushi/cReComp/devel/sample.v",
+		"/D/cygwin/home/kazushi/arc/mips-tools/setup-mips.sh",
+		"/C/Users/kazushi/Desktop/arch_tokuron/setup-mips.sh",
+		"/D/cygwin/home/kazushi/arc/ws/setup-mips.sh",
+		"/C/Users/kazushi/Downloads/setup-mips (1).sh"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"32",
+			"default",
+			"sensor_ctl_din_32",
+			"}",
+			"\\n",
+			"\\t",
+			"val",
+			"large",
+			"short",
+			"w_cycle_32",
+			"en",
+			"action",
+			"wire",
+			"tck",
+			"reg",
+			"32",
+			"unsigned int *argv",
+			"32",
+			"read",
+			"set_devfile_read",
+			"32",
+			"s_8",
+			"32",
+			"sensor_ctl_dout_32",
+			"set",
+			"unsigned char",
+			"unsigned int",
+			"tvoid",
+			"unsigned char",
+			"unsigned int",
+			"sensor_ctl_out",
+			"sw_gen",
+			"shutil",
+			"sys",
+			"sensor_ctl_out",
+			"devfile_read",
+			"0",
+			"true",
+			"const",
+			"read",
+			"32",
+			"close_devfile_read_32",
+			"32",
+			"devfile_open_read_32",
+			"opendevfile_read",
+			"sub_module",
+			"sub_module_name",
+			"sub_module",
+			"module_name",
+			"dsl_file",
+			"32",
+			" )",
+			"rw_cond_8",
+			"readline",
+			"rw_cond_32",
+			"32",
+			"print",
+			"elem_ins_one",
+			"make_reglist",
+			"connect",
+			"assign_port_stack",
+			"assign_target_module",
+			"w_cycle_32",
+			"flag",
+			"2",
+			"32",
+			"scrp",
+			"ans_sub",
+			"ans_8_alw",
+			"ans_o",
+			"ans_32_alw",
+			"ans_8",
+			"ans_32",
+			"reg",
+			"sig_inout",
+			"reg",
+			"f",
+			"module_type",
+			"\n		",
+			"))\n",
+			"j",
+			"ans_hs_s",
+			"if ans_hs_s:\n		common.read_lib(fo,\"lib/hs_slv_alw\")",
+			"ans_hs_s",
+			"ans_hs_m",
+			"fi",
+			"module_type",
+			"ans_hs_m",
+			"ans_hs_s",
+			"ans_hs_m",
+			"reg2fifo",
+			"32",
+			"module_name",
+			"3",
+			"sub_module_name",
+			"argv",
+			"fi",
+			"1",
+			"fo_s",
+			" \")",
+			"puts",
+			"32",
+			"0r",
+			"\")",
+			"reg2info",
+			"reg2fifo_stack_32_r",
+			"reg2info_stack_32_r",
+			"reg2fifo",
+			"]",
+			"x",
+			"r",
+			"puts",
+			"port_stack",
+			"x",
+			"bitwidth",
+			"3",
+			"and",
+			"puts",
+			"sub_module",
+			"ans_32_alw",
+			"1",
+			"self",
+			"false",
+			"@",
+			"condition",
+			"cur.gx != gyro_x ",
+			"gx",
+			"msg"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"8",
+			"/*module_name*/",
+			"8",
+			"False",
+			"",
+			"SND_DATA_32_z",
+			"SND_DATA_32_y",
+			"SND_DATA_32_x",
+			"None",
+			"openreroc_motion_sensor",
+			"openreroc_pwm",
+			"6495ed",
+			"87ceeb",
+			"4169e1",
+			"2e8b57",
+			"8",
+			"state_32",
+			"8",
+			"@bit_witdh_32_s",
+			"@reg2fifo_stack_32_s",
+			"@bit_witdh_32_r",
+			"@reg2fifo_stack_32_r",
+			"fifo_ctl_8",
+			"8",
+			"#{bit}",
+			"i",
+			"",
+			"@array",
+			"",
+			"@@line",
+			"\"",
+			" '",
+			" ",
+			",",
+			"32",
+			"8",
+			"",
+			"8",
+			"IMAGE_WIDTH",
+			"IMAGE_HEIGHT",
+			"IMAGE_WIDTH",
+			"IMAGE_HEIGHT",
+			"h",
+			"w"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "deep_learning.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\kazushi\\Dropbox\\研究室関係\\発表関係\\EUC2016\\euc2016.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
