@@ -23,12 +23,15 @@ def detect(filename, cascade_file = "cascade/lbpcascade_animeface.xml"):
     dir = filename.split(".")
     dir2 = dir[len(dir)-2].translate(None,".").split("/")
     path = dir2[len(dir2)-1]
-    os.makedirs(path)
+    if os.path.isdir(path) == False:
+        os.makedirs(path)
+
     for (x, y, w, h) in faces:
         # cv2.rectangle(image, (x, y), (x + w, y + h), (0, 0, 255), 2)
         print "%s %s %s %s"%(x, y, w, h)
         dst = image[y:y+h, x:x+w]
-        cv2.imwrite("%s/%s.png"%(path,i), dst)
+        dst_resized = cv2.resize(dst, (100,100))
+        cv2.imwrite("%s/%s.png"%(path,i), dst_resized)
         i = i + 1
 
 if len(sys.argv) != 2:
