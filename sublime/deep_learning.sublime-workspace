@@ -395,6 +395,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/D/cygwin/home/kazushi/deep-learning/image_processing/detect.py",
+			"settings":
+			{
+				"buffer_size": 1207,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -498,10 +506,18 @@
 	},
 	"expanded_folders":
 	[
-		"/D/cygwin/home/kazushi/deep-learning"
+		"/D/cygwin/home/kazushi/deep-learning",
+		"/D/cygwin/home/kazushi/deep-learning/image_processing",
+		"/D/cygwin/home/kazushi/deep-learning/lib",
+		"/D/cygwin/home/kazushi/deep-learning/main"
 	],
 	"file_history":
 	[
+		"/D/cygwin/home/kazushi/deep-learning/image_processing/lbpcascade_animeface/README.md",
+		"/D/cygwin/home/kazushi/deep-learning/readme.md",
+		"/D/cygwin/home/kazushi/deep-learning/main/learning_fisher.py",
+		"/D/cygwin/home/kazushi/deep-learning/exe_deeplearning.sh",
+		"/D/cygwin/home/kazushi/deep-learning/src/learning_fisher.py",
 		"/D/cygwin/home/kazushi/cReComp/cReComp.py",
 		"/C/Users/kazushi/AppData/Local/Temp/scp33788/home/kazushi/work_space/death-march-committee/yamashina/python/subjects/txtmaching.py",
 		"/C/Users/kazushi/AppData/Local/Temp/scp33580/home/kazushi/work_space/death-march-committee/yamashina/python/in_data/zundoko.txt",
@@ -624,12 +640,7 @@
 		"/D/cygwin/home/kazushi/cReComp/lib/sample.txt",
 		"/D/cygwin/home/kazushi/cReComp/devel/test.v",
 		"/D/cygwin/home/kazushi/cReComp/ruby/lib/fifo_32.rb",
-		"/D/cygwin/home/kazushi/cReComp/ruby/lib/scrp_conf.rb",
-		"/D/cygwin/home/kazushi/cReComp/devel/sample.v",
-		"/D/cygwin/home/kazushi/arc/mips-tools/setup-mips.sh",
-		"/C/Users/kazushi/Desktop/arch_tokuron/setup-mips.sh",
-		"/D/cygwin/home/kazushi/arc/ws/setup-mips.sh",
-		"/C/Users/kazushi/Downloads/setup-mips (1).sh"
+		"/D/cygwin/home/kazushi/cReComp/ruby/lib/scrp_conf.rb"
 	],
 	"find":
 	{
@@ -647,6 +658,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"-\n",
+			"-",
+			"/",
 			"32",
 			"default",
 			"sensor_ctl_din_32",
@@ -771,10 +785,7 @@
 			"self",
 			"false",
 			"@",
-			"condition",
-			"cur.gx != gyro_x ",
-			"gx",
-			"msg"
+			"condition"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -836,8 +847,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/cygwin/home/kazushi/deep-learning/image_processing/detect.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -847,7 +890,7 @@
 	},
 	"input":
 	{
-		"height": 38.0
+		"height": 102.0
 	},
 	"layout":
 	{

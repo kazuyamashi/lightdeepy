@@ -17,7 +17,7 @@ if __name__ == '__main__':
 	dataFile = argvs[1]
 	cycle_time = int(argvs[2])
 
-	dnn = dnn.DNN({'numOfUnits':[4, 4, 4, 3]})
+	dnn = dnn.DNN({'numOfUnits':[4, 4, 4, 4, 4, 3]})
 
 	dnn.setLearningCoefficient(0.001)
 
