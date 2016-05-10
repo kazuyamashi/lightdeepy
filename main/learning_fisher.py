@@ -6,8 +6,10 @@ import sys
 sys.path.append("../lib/")
 import dnn
 import math
+import debug
 
 if __name__ == '__main__':
+	dg = debug.Debug()
 	argvs = sys.argv
 	argc = len(argvs)
 	if argc	!= 3:
