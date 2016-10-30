@@ -1,6 +1,6 @@
-#deep-learning
-
-Git: https://github.com/kazuyamashi/deep-learning.git  
+#lightdeepy
+Light Deep Learning on Python
+Git: https://github.com/kazuyamashi/lightdeepy.git  
 Author: Kazushi Yamashina (Utsunomiya University)  
 Contact: @KazushihuzaK (Twitter)  
 

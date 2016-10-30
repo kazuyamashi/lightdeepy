@@ -6,28 +6,28 @@ case $1 in
 		;;
 	uninstall)
 		echo "uninstall"
-		pip uninstall crecomp -y
+		pip uninstall lightdeepy -y
 		;;
 	publish)
 		echo "readme"
 		pandoc -o README.rst README.md
 		;;
-	release)
-		echo "release"
-		pandoc -o README.rst README.md
-		# python crecomp/scrp_yacc.py
-		python setup.py egg_info sdist bdist_wheel
-		python setup.py register
-		python setup.py sdist upload
-		rm -rf dist
-		rm -rf crecomp.egg-info
-		rm -rf build
-		;;
+	# release)
+	# 	echo "release"
+	# 	pandoc -o README.rst README.md
+	# 	# python crecomp/scrp_yacc.py
+	# 	python setup.py egg_info sdist bdist_wheel
+	# 	python setup.py register
+	# 	python setup.py sdist upload
+	# 	rm -rf dist
+	# 	rm -rf crecomp.egg-info
+	# 	rm -rf build
+	# 	;;
 	clean)
 		echo "cleaned files"
-		rm crecomp/*pyc
+		rm lightdeepy/*pyc
 		rm -rf dist
-		rm -rf crecomp.egg-info
+		rm -rf lightdeepy.egg-info
 		rm -rf build
 		;;
 	*)

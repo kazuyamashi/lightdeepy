@@ -3,10 +3,9 @@
 # learning_fisher.py
 # described by Kazushi Yamashina
 import sys
-sys.path.append("../lib/")
-import dnn
+import lightdeepy.dnn as dnn
 import math
-import debug
+import lightdeepy.debug as debug
 
 if __name__ == '__main__':
 	dg = debug.Debug()
@@ -19,7 +18,7 @@ if __name__ == '__main__':
 	dataFile = argvs[1]
 	cycle_time = int(argvs[2])
 
-	dnn = dnn.DNN({'numOfUnits':[4, 4, 4, 4, 4, 3]})
+	dnn = dnn.DNN({'numOfUnits':[4, 4, 4, 3]})
 
 	dnn.setLearningCoefficient(0.001)
 
