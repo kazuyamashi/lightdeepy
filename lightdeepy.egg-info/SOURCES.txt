@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+lightdeepy/__init__.py
+lightdeepy/connection.py
+lightdeepy/debug.py
+lightdeepy/dnn.py
+lightdeepy/image_cnn.py
+lightdeepy/myerror.py
+lightdeepy/unit.py
+lightdeepy/utility.py
+lightdeepy.egg-info/PKG-INFO
+lightdeepy.egg-info/SOURCES.txt
+lightdeepy.egg-info/dependency_links.txt
+lightdeepy.egg-info/top_level.txt
